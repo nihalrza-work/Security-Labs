@@ -83,7 +83,4 @@ Even simple boolean manipulation (`OR 1=1`) can fully bypass application-level f
 ---
 
 ## Evidence
-
-- Screenshot of original filtered product view
 - Screenshot after payload injection showing all products
-- Request showing injected payload in URL parameter
